@@ -20,7 +20,6 @@ The Gemini API provides access to Google's most advanced AI models. Key capabili
 
 - `gemini-3-pro-preview`: 1M tokens, complex reasoning, coding, research
 - `gemini-3-flash-preview`: 1M tokens, fast, balanced performance, multimodal
-- `gemini-3-pro-image-preview`: 65k / 32k tokens, image generation and editing
 
 
 > [!IMPORTANT]
@@ -117,7 +116,6 @@ This index contains links to all documentation pages in `.md.txt` format. Use we
 
 - [Models](https://ai.google.dev/gemini-api/docs/models.md.txt)
 - [Google AI Studio quickstart](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart.md.txt)
-- [Nano Banana image generation](https://ai.google.dev/gemini-api/docs/image-generation.md.txt)
 - [Function calling with the Gemini API](https://ai.google.dev/gemini-api/docs/function-calling.md.txt)
 - [Structured outputs](https://ai.google.dev/gemini-api/docs/structured-output.md.txt)
 - [Text generation](https://ai.google.dev/gemini-api/docs/text-generation.md.txt)
