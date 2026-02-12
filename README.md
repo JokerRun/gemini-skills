@@ -41,6 +41,20 @@ npx skills add google-gemini/gemini-skills --skill gemini-api-dev --global
 npx ctx7 skills install /google-gemini/gemini-skills gemini-api-dev
 ```
 
+### gemini-image-generation
+
+使用Gemini API进行图像生成的专业技能。涵盖Nano Banana模型的使用、配置参数、最佳实践和完整的中文API参考，包括文本生成图像、图像编辑、多轮编辑等功能。
+
+```sh
+# Vercel skills
+npx skills add google-gemini/gemini-skills --skill gemini-image-generation --global
+```
+
+```sh
+# Context7 skills
+npx ctx7 skills install /google-gemini/gemini-skills gemini-image-generation
+```
+
 ## Disclaimer
 
 This is not an officially supported Google product. This project is not
